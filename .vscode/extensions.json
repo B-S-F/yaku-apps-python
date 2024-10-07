@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "ms-python.isort",
+    "ms-python.mypy-type-checker",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "redhat.vscode-yaml",
+    "vivaxy.vscode-conventional-commits",
+    "ryanluker.vscode-coverage-gutters",
+    "ms-python.debugpy",
+    "charliermarsh.ruff"
+  ]
+}
